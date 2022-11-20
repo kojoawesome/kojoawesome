@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kojo Kumi
 - 👀 I’m a big fan of web3 and blockchain development
-- 🌱 I’m currently learning Solidity and 
+- 🌱 I’m currently learning Solidity,React.js and Node.js
 - 💞️ I’m looking to collaborate on any web3 project 
 - 📫 How to reach me kojokumi16.kk@gmail.com
 
