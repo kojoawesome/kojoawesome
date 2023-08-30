@@ -11,5 +11,5 @@
 🌱 Join me on this exciting journey as we navigate the ever-evolving landscape of Web3, blockchain technology, and decentralized finance. Feel free to connect, collaborate, and explore together!
 
 Connect with me:
-Twitter: [(https://twitter.com/Codejoey)]
-LinkedIn: [https://www.linkedin.com/in/kojo-kumi-b8331b13a/]
+Twitter: (https://twitter.com/Codejoey)
+LinkedIn: https://www.linkedin.com/in/kojo-kumi-b8331b13a/
